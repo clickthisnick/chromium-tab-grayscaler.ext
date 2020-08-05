@@ -7,6 +7,9 @@
       "matches": [
         "<all_urls>"
       ],
+      "exclude_globs": [
+        "*://github.com/*"
+      ],
       "css": ["grayscale.css"]
     }
   ]
